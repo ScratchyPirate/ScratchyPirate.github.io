@@ -5,7 +5,7 @@
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-john_sbur[at]yahoo.com
+john_sbur@yahoo.com
 
 #### Education
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\

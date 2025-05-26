@@ -1,82 +1,69 @@
-# Hugo Profile | [Wiki Page](https://github.com/gurusabarish/hugo-profile/wiki)
-
-[![Twitter](https://img.shields.io/twitter/url?label=Tweet&style=social&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile) [![GitHub forks](https://img.shields.io/github/forks/gurusabarish/hugo-profile?style=plastic)](https://github.com/gurusabarish/hugo-profile/network) [![GitHub stars](https://img.shields.io/github/stars/gurusabarish/hugo-profile?style=plastic)](https://github.com/gurusabarish/hugo-profile/stargazers)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5c1dcb34-cada-4c80-82b7-cfdbdbd7c774/deploy-status)](https://app.netlify.com/sites/hugo-profile/deploys)
-![Latest Release](https://img.shields.io/github/v/release/gurusabarish/hugo-profile?include_prereleases)
-![Last Commit](https://img.shields.io/github/last-commit/gurusabarish/hugo-profile)
-![Open Issues](https://img.shields.io/github/issues/gurusabarish/hugo-profile?color=important)
-![Open Pull Requests](https://img.shields.io/github/issues-pr/gurusabarish/hugo-profile?color=yellowgreen)
-![License](https://img.shields.io/github/license/gurusabarish/hugo-profile)
-
-A high performance and mobile first hugo template for personal portfolio and blog
-
-- ### Example Site: [https://hugo-profile.netlify.app](https://hugo-profile.netlify.app)
-
-# Features
-- Fully Responsive
-- Minimalist Design
-- SEO Friendly.
-- Light/Dark/auto
-- Taxonomies
-- [Color customization](https://github.com/gurusabarish/hugo-profile/wiki/Color-Customization)
-- Analytics Support 
-  - [Google Analytics](https://gohugo.io/templates/internal/#google-analytics)
-- Comment Support
-  - [Disqus](https://gohugo.io/content-management/comments/)
-- Integration with [FormSpree](https://formspree.io/) for submitting "Contact me" form
-
-Technology used: Bootstrap, fontawesome 
-
-# Requirements
-- Hugo Version 0.87.0 or higher
 
 
-# How to use this template
+![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
+![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
+![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
+![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
 
-- [Hugo theme](#Hugo-theme)
-- [Direct deployment using netlify](#Direct-deployment-using-netlify)
+# A simple Github Pages template for personal academic websites.
 
-[For more details](https://github.com/gurusabarish/hugo-profile/wiki)
-## Hugo theme
+## Preview
+[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
 
-- Install Hugo and create a site using `hugo new site my-site --format="yaml"`
-- Clone this repo inside your themes folder
+
+## Introduction
+
+This personal academic website template is based on [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
+
+The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
+
+This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as delimiters for inline-math, or use `$$...$$` and `\[...\]` as delimiters for display-math. Macros such as `\ref{...}`, `\eqref{...}`, and `\begin{equation}...\end{equation}` are also supported. See [MathJax](https://docs.mathjax.org/en/latest/index.html) for more details.
+
+:milky_way: Demo: https://senli1073.github.io/
+
+
+## Getting Start
+### 1. Fork this repository
+The repository name should be `<username>.github.io`, which will also be your website's URL.
+
+
+### 2. Edit page content
+
+(1) Go to the folder where you want to store your project, and clone the new repository:
 ```
-cd themes
-git clone https://github.com/gurusabarish/hugo-profile.git
+git clone https://github.com/<username>/<username>.github.io.git
 ```
-- Create config.yaml (you can use `config.toml` too) inside root folder 
-- Setup the configurations in `config.yaml`. [reference](https://github.com/gurusabarish/hugo-profile/blob/master/exampleSite/config.yaml)
-- You should have the mentioned (_inside the config file_) images in static folder to use them.
+The directory structure is as follows:
 
-For more details: [Hugo's official docs](https://gohugo.io/getting-started/quick-start/), [content management](https://www.mikedane.com/static-site-generators/hugo/content-organization/)
+```.
+.
+├── contents
+└── static
+    ├── assets
+    │   └── img
+    ├── css
+    └── js
+```
 
-## Direct deployment using netlify
+(2) Modify the content of each section, which corresponds to `contents/*.md`.
 
-- Fork this repo or create new repo using `use this template` button and connect repo to netlify.
-- whenever you customize the files exampleSite folder, netlify will automatically deploy your changes.
+(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
 
-For more details: [host on netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/), [content management](https://www.mikedane.com/static-site-generators/hugo/content-organization/)
+(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
 
-# Deployment
+(5) Push it: 
+```
+git commit -am 'init'
+git push
+```
 
-Run `hugo`. It will generate a folder called public. You can use the files inside public folder for deployment. You should delete the public folder for each time when you are using `hugo` command.
 
-# Issues
+### 3. Enjoy
 
-If you have a question, please [open an issue](https://github.com/gurusabarish/hugo-profile/issues) for help and to help those who come after you. The more information you can provide, the better!
+Fire up a browser and go to `https://<username>.github.io`
 
-# Contributing
 
-Contributions, issues, and feature requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-# License
+## License
 
-Licensed under [MIT](LICENSE)
-
-# 🤝 Support
-
-Give a ⭐️ or buy me a ~`coffee`~ tea if you like this project!
-
-<a href="https://www.buymeacoffee.com/gurusabarish" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="145" alt="Buy Me A Coffee"></a>
+Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.

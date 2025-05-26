@@ -2,18 +2,23 @@
 
 [![John Sbur](https://img.shields.io/badge/ScratchyPirate-github-blue?logo=github)](https://github.com/ScratchyPirate)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Software Engineer. Systems Engineer. Computer Mechanic. Game Designer.\
+
+The harder the challenge, the better opportunity to grow myself and contribute to the world. For that reason, I found a love for software engineering and project management. The ability to tangibly and incrementality add to the world is fulfilling. I aim to do so as my most disciplined self.
 
 #### Email
 john_sbur@yahoo.com
 
+#### LinkedIn
+https://www.linkedin.com/in/johnsbur/
+
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Computer Science, Western Washington Unievrsity, Bellingham, WA, 2024—2026 (expected).\
+B.S. (Honors), Computer Science, Washington State University, Pullman, WA, 2019—2024.
 
 #### Programming Language Experience
-Low level - C (1 year), C++ (1 year), Rust (1 year), SQL (2 years)
-Object Oriented - C# (5 years), Javascript (2 years), Python (1 year)
+Low level - C (1 year), C++ (1 year), Rust (1 year), SQL (2 years)\
+Object Oriented - C# (5 years), Javascript (2 years), Python (1 year)\
 Markup - XML (2 years), HTML (2 years)
 
 #### Research Interests

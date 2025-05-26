@@ -1,4 +1,4 @@
-Pravega C# to Rust Interop Library<br />
+<b>Pravega C# to Rust Interop Library</b><br />
 Developed a library for DELL by leading a team of undergraduate students using the Agile method over the course of a 
 year that allows for data streaming in C# using DELL’s Pravega servers. This also involved researching and developing 
 new methods of communicating between previously developed Pravega libraries in the Rust programming language and C#. 
@@ -6,7 +6,7 @@ Key architectures developed involve managing the communication of managed and un
 across languages, and data transfer across languages.
 Link: https://github.com/WSUCptSCapstone-Fall2022Spring2023/dell-pravegaapi/tree/Pravega-API-Branch
 
-I-5 Computers Job Ticket Software<br />
+<b>I-5 Computers Job Ticket Software</b><br />
 This Developed software for managing Job Tickets using industry design methods to 
 plan and create. This gave I-5 Computers the ability to go paperless and keep track of Job Tickets on a local database.
 Software is event-driven and is built upon Object-Oriented design principles using WinForms in C#. In addition, the 
@@ -18,7 +18,7 @@ with the system, salted and hashed passwords for users, encryption of critical u
 based on user.
 Link: https://github.com/ScratchyPirate/John-Sbur-Portfolio/tree/main/Job_Ticket_Manager
 
-Pokemon Adventure Quest<br />
+<b>Pokemon Adventure Quest<b/b><br />
 Developed a table top role playing game based off of the popular media "Pokemon." Made for hobby and not for sale 
 use.
 Made in a similar way to how I would approach a software project, turning sections into modules and approached 

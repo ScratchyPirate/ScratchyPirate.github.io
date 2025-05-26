@@ -1,4 +1,4 @@
-Contract Software Engineer - McKeany-Flavell - 2024 to present<br />
+<b>Contract Software Engineer - McKeany-Flavell - 2024 to present</b><br />
 This Contracted to work on McKeany-Flavell's vision on modern ad dynamic visualizations for the commodities world.
 Project Management. Helping McKeany-Flavell's vision to empower clients with commercial intelligence, supply chain 
 expertise, and risk management solutions by increasing the quality and speed of information given to their clients on
@@ -9,7 +9,7 @@ in React JS for more robust self-service capabilities. Manage visualization conn
     
 Company Website: https://www.mckeany-flavell.com/
 
-Computer Mechanic - I-5 Computers - 2021 to 2024<br />
+<b>Computer Mechanic - I-5 Computers - 2021 to 2024</b><br />
 This Repair hardware and software related issues in laptop and desktop computers of various companies, including but 
 not limited to HP, Dell, Apple, Lenovo, Acer, ASUS. Hardware duties include replacements, testing, and wire soldering.
 Software duties include corruption repair, malware removal, and other general repair of inoperable software. 

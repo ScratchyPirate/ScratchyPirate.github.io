@@ -21,7 +21,7 @@ john_sbur@yahoo.com
 https://www.linkedin.com/in/johnsbur/
 
 #### Education
-M.S., Computer Science, Western Washington Unievrsity, Bellingham, WA, 2024—2026 (expected).
+M.S., Computer Science, Western Washington Unievrsity, Bellingham, WA, 2024—2026 (expected).<br />
 B.S. (Honors), Computer Science, Washington State University, Pullman, WA, 2019—2024.<br />
 
 #### Programming Language Experience
